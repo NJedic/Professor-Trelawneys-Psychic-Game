@@ -1,0 +1,33 @@
+/*Body*/
+body {
+	padding: 0;
+	background-color: #5b0707;
+	background-image: url("https://img.clipartfest.com/46a6df1c585ee40c75cd9c305f90c6c6_-william-wiegand-scroll-of-scroll-clipart-png_770-420.png");
+	background-size: cover;
+	align-content: center;
+	background-repeat: no-repeat;
+}
+
+/*Header*/
+header{
+	padding-top: 40px;
+	font-family: 'Kaushan Script', cursive;
+	text-shadow: 2px 2px #2e3313;
+	text-align: center;
+	color: #5f6064;
+	font-size: 60px;
+}
+
+/*Main Image - sticks it to the top left corner*/
+#image{
+	position: fixed;
+		top:0;
+}
+
+/*Actual Internal Game Structure*/
+#gameNotes, #gamePlay{
+	padding-top: 30px;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 20px;
+}
+
