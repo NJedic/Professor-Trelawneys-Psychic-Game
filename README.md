@@ -4,7 +4,9 @@
 
 ## Overview
 
-Professor Trelawney has chosen a Random Letter - Can you Guess It? 
+Professor Trelawney has chosen a Random Letter - Can you Guess It?
+
+![Divination Class](https://media.giphy.com/media/zAEuMm5irzwVq/giphy.gif) 
 
 ## Getting Started
 
@@ -25,10 +27,6 @@ Professor Trelawney has chosen a Random Letter - Can you Guess It?
 ## Application Preview
 
 ![Professor Trelawney's Psychic Game](/assets/images/psychicGame.jpg)
-
-
-
-![Divination Class](https://media.giphy.com/media/zAEuMm5irzwVq/giphy.gif)
 
 
 [here!]: https://njedic.github.io/Professor-Trelawneys-Psychic-Game/
