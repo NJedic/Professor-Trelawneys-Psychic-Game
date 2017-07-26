@@ -8,8 +8,6 @@ Professor Trelawney has chosen a Random Letter - Can you Guess It?
 
 ## Getting Started
 
-![Professor Trelawney's Psychic Game](/assets/images/psychicGame.jpg)
-
 * Launch the application [here!] 
 
 * Use your Keyboard to Guess what letter the Professor is thinking of. 
@@ -23,6 +21,12 @@ Professor Trelawney has chosen a Random Letter - Can you Guess It?
 * CSS/Bootstrap
 
 * JavaScript
+
+## Application Preview
+
+![Professor Trelawney's Psychic Game](/assets/images/psychicGame.jpg)
+
+
 
 ![Divination Class](https://media.giphy.com/media/zAEuMm5irzwVq/giphy.gif)
 
